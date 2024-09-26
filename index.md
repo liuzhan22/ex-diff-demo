@@ -1,4 +1,6 @@
-# Ex-Diff: Demo Page
+---
+title: "Ex-Diff: Demo Page"
+---
 
 This is the demo page for the paper [*Extract and Diffuse*](https://arxiv.org/abs/2409.09642v1).
 
